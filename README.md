@@ -1,3 +1,3 @@
 # background-generator
 
-I am working on learning how work with git
+I am working on learning how to work with git
